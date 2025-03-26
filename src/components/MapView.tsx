@@ -19,6 +19,7 @@ export const MapView = () => {
       });
       setMap(map);
     }
+    //eslint-disable-next-line
   }, [isLoading]);
 
   if (isLoading) {
