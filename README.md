@@ -5,7 +5,7 @@
 ### 1. Clone the repository
 First, clone the repository in your local machine.
 
-### 2. Install dependencias
+### 2. Install dependencies
 To install the dependencies, you can use the following command, depending on you prefer:
 
 #### npm
@@ -30,3 +30,5 @@ npm run dev
 ```bash
 yarn dev
 ```
+
+Check the demo [here](https://clever-caramel-295655.netlify.app/)
